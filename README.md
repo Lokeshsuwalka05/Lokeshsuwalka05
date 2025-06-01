@@ -6,7 +6,7 @@
 ---
 
 ## 🔧 Tech Stack
-
+**Language**:C++,Javascript
 **Frontend**: React.js, Tailwind CSS, TypeScript, React Router, shadcn/ui  
 **Backend**: Node.js, Express.js  
 **Databases**: PostgreSQL, MySQL, Redis  
