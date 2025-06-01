@@ -7,22 +7,26 @@
 
 ## 🔧 Tech Stack
 
+**Languages**: C++, JavaScript  
 **Frontend**: React.js, Tailwind CSS, TypeScript, React Router, shadcn/ui  
 **Backend**: Node.js, Express.js  
-**Databases**: PostgreSQL, MySQL, Redis  
-**Tools**: Git, GitHub, Postman, VS Code
-**Language**:C++,Javascript
+**Databases**: PostgreSQL, MySQL  
+**Tools**: Git, GitHub, Postman, VS Code  
+
+---
 
 ## 📈 Achievements
 
-- 🧠 Solved 700+ DSA problems (400+ on [LeetCode](https://leetcode.com/u/LUCKY2002_05/))
-- 💯 Completed #100DaysOfCode challenge, shared daily learnings on LinkedIn
+- 🧠 Solved 700+ DSA problems (400+ on [LeetCode](https://leetcode.com/u/LUCKY2002_05/))  
+- 💯 Completed #100DaysOfCode challenge, shared daily learnings on LinkedIn  
+
+---
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/lokeshsuwalka2002)
-- 💻 [GitHub](https://github.com/Lokeshsuwalka05)
-- ✉️ lokeshsuwalka2002@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/lokeshsuwalka2002)  
+- 💻 [GitHub](https://github.com/Lokeshsuwalka05)  
+- ✉️ lokeshsuwalka2002@gmail.com  
 
 ---
 
