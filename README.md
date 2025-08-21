@@ -24,7 +24,7 @@
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/lokeshsuwalka2002)  
+- 🔗 [LinkedIn](www.linkedin.com/in/lokeshsuwalka05)  
 - 💻 [GitHub](https://github.com/Lokeshsuwalka05)  
 - ✉️ lokeshsuwalka2002@gmail.com  
 
