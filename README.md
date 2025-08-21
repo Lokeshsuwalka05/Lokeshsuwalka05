@@ -17,7 +17,7 @@
 
 ## 📈 Achievements
 
-- 🧠 Solved 700+ DSA problems (400+ on [LeetCode](https://leetcode.com/u/LUCKY2002_05/))  
+- 🧠 Solved 700+ DSA problems (400+ on [LeetCode](https://leetcode.com/u/Lokeshsuwalka05))  
 - 💯 Completed #100DaysOfCode challenge, shared daily learnings on LinkedIn  
 
 ---
