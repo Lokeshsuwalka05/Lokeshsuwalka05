@@ -28,15 +28,7 @@
 - **Open Source:** [github.com/Devtinder-Frontend](https://github.com/Lokeshsuwalka05/Devtinder-Frontend)
 - **Open Source:** [github.com/Devtinder-Backend](https://github.com/Lokeshsuwalka05/Devtinder-Backend)
 
-## 
-[<img src={https://tastyigniter.com/images/logos/logo-padded.png} alt="Devtinder Logo" height="150"/>](https://thedevtinder.live/)
-**TheDevtinder** -  “A modern developer-matching platform that connects coders based on skills, projects, and collaboration interests.”
-- **About:**-Every line of code is written by me — a fully hand-coded, scalable microservices-based platform with secure JWT authentication, real-time chat using WebSockets/Socket.io, automated email workflows via Amazon SES, Razorpay payment integration, and scheduled background tasks using node-cron — all deployed on AWS EC2.
-- **Website:** [thedevtinder.live](https://thedevtinder.live/)
-- **Open Source:** [github.com/Devtinder-Frontend](https://github.com/Lokeshsuwalka05/Devtinder-Frontend)
-- **Open Source:** [github.com/Devtinder-Backend](https://github.com/Lokeshsuwalka05/Devtinder-Backend)
-
-## 
+##  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshsuwalka05&show_icons=true&locale=en&layout=compact" alt="lokeshsuwalka05" /></p>
 
